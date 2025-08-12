@@ -43,7 +43,9 @@ npm install
 
 ### Run the Project
 
+```bash
 npm run tailwind
+```
 
 ## 💻 Usage
 
@@ -81,3 +83,9 @@ npm run tailwind
 ## 📄 License
 
 This project is open-source under the MIT License.
+
+## 🙌 Credits
+
+- Design Inspiration: Apple.com
+
+- Framework: tailwindcss.com
