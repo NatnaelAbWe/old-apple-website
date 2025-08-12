@@ -35,8 +35,49 @@ git clone https://github.com/NatnaelAbWe/old-apple-website
 cd old-apple-website
 ```
 
-## Install Dependacies
+### Install Dependacies
 
 ```bash
 npm install
 ```
+
+### Run the Project
+
+npm run tailwind
+
+## 💻 Usage
+
+### To use or adapt this project:
+
+- Install **Tailwind CSS** in your environment.
+
+- Copy the sections you need into your HTML page.
+
+- Replace the images inside /asset with your own.
+
+- Modify background paths in the HTML:
+
+## 🎨 Customization
+
+- Change background images in asset/home.
+
+- Adjust text, button colors, and sizes in Tailwind classes.
+
+- Replace placeholder links (#) with real product pages.
+
+## Screenshot
+
+### Production Section
+
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+
+## Footer Section
+
+![alt text](image-5.png)
+
+## 📄 License
+
+This project is open-source under the MIT License.
